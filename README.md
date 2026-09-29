@@ -1,4 +1,5 @@
 # **MECHANICAL SNACK SAFE!!!**
+# I DON'T HAVE A .STEP FILE BLENDER CAN EXPORT ONLY TO .STL AND .OBJ FILE!
 Hi everyone! *This is text explaining what my awesome project is* :)
 
 this is a **fully 3D-printable mechanical safe** designed specifically to protect your snacks (no cash, only snacks!). it features a combination lock mechanism built without any electronics!
