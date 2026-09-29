@@ -1,22 +1,30 @@
-# Safe
-Safe not for cash, for sneaks
+# **MECHANICAL SNACK SAFE!!!**
+Hi everyone! *This is text explaining what my awesome project is* :)
 
-# Custom Safe
+this is a **fully 3D-printable mechanical safe** designed specifically to protect your snacks (no cash, only snacks!). it features a combination lock mechanism built without any electronics!
 
-A mechanical safe designed for your snacks! Just put your snacks inside, set the combination, and no one can open it or steal your food.
+here's an AWESOME render of my project!
 
-> **The Golden Rule:** Strictly NO cash inside — snacks only!
+<img width="1920" height="1080" alt="safe3" src="https://github.com/user-attachments/assets/fd13732d-e9ce-4a89-83c5-98d9f4e83737" />
+<img width="1920" height="1080" alt="safe2" src="https://github.com/user-attachments/assets/140e60cd-5744-4555-9945-a8c226ae5cd0" />
+<img width="1920" height="1080" alt="Safe" src="https://github.com/user-attachments/assets/b10cd71d-a5d4-4328-bef8-ecfcfad776f8" />
 
-## Why I Built This
-I enjoy 3D design and mechanical modeling in Blender much more than pure coding, so I decided to challenge myself with a fully functional mechanical combination lock.
+~~I~~ ~~say~~ ~~to~~ ~~you~~ ~~password~~ ~~but~~ ~~it~~ ~~is~~ ~~secret~~ ~~don't~~ ~~tell~~ ~~anyone~~ **~~password is HDB~~**
 
-## How It Was Built
-- Configured Blender scene settings specifically for precision 3D printing (metric units, mm tolerances).
-- Designed a 4-wheel Minecraft-themed mechanical combination lock using Boolean modifiers and custom CAD geometry.
-- Modeled a captive sliding locking bar mechanism that operates entirely without electronics.
-- Added custom relief texts on the body (*"No money here, only snacks"* and a small nod: *"Need a motion designer? DM me!"*).
+# **HOW THIS WAS MADE**
+this safe enclosure and mechanical lock were modeled from scratch in Blender 3.6 and **PREPARED FOR 3D PRINTING** :D
 
----
-*Need a motion designer for your project? Feel free to reach out!*
+Heres **how to print and assemble the project** :)
+1. Clone the repository to get the 3D files:
+git clone https://github.com/F9Motion/Safe
 
-My OBS https://youtu.be/N4KoB9MnT44
+2. Load the .obj files from the folder into your favorite 3D slicer
+
+3. Print the main box, door etc.
+
+4. Assemble the mechanical lock mechanism into the door panel and lock your snacks away!
+and be joyous!
+
+
+#AI DISCLOSURE
+AI helped me to now size of A4 paper 
