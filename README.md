@@ -26,6 +26,18 @@ git clone https://github.com/F9Motion/Safe
 4. Assemble the mechanical lock mechanism into the door panel and lock your snacks away!
 and be joyous!
 
+# Here is BOM file!!!
+[BOM.csv](https://github.com/user-attachments/files/32843225/BOM.csv)
+
+
+Object Name,Weight,Cost
+back.stl,1134.1g,$22.67
+ball.stl,87.4g,$1.75
+case.stl,173.29g,$3.46
+door.stl,167.52g,$3.35
+stick.stl,36.83g,$0.74
+Total,1599.14g,$31.97
+
 
 #AI DISCLOSURE
 AI helped me to now size of A4 paper 
