@@ -26,7 +26,7 @@ git clone https://github.com/F9Motion/Safe
 and be joyous!
 
 # Here is BOM file!!!
-[Новая таблица.xlsx](https://github.com/user-attachments/files/33045703/default.xlsx)
+[BOM.xlsx](https://github.com/user-attachments/files/33045754/BOM.xlsx)
 
 # AI DISCLOSURE
 AI helped me to now size of A4 paper 
