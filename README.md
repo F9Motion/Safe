@@ -1,5 +1,4 @@
 # **MECHANICAL SNACK SAFE!!!**
-# I DON'T HAVE A .STEP FILE BLENDER CAN EXPORT ONLY TO .STL AND .OBJ FILE!
 Hi everyone! *This is text explaining what my awesome project is* :)
 
 this is a **fully 3D-printable mechanical safe** designed specifically to protect your snacks (no cash, only snacks!). it features a combination lock mechanism built without any electronics!
@@ -27,9 +26,7 @@ git clone https://github.com/F9Motion/Safe
 and be joyous!
 
 # Here is BOM file!!!
+[BOM.csv](https://github.com/user-attachments/files/33043573/BOM.csv)
 
-Total,1599.14g,$31.97
-
-
-#AI DISCLOSURE
+Object Name,Weight,Cost#AI DISCLOSURE
 AI helped me to now size of A4 paper 
