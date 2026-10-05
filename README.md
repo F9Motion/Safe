@@ -35,7 +35,7 @@ case.stl,173.29g,$3.46
 door.stl,167.52g,$3.35
 stick.stl,36.83g,$0.74
 Total,1599.14g,$31.97
-Object Name,Weight,Cost#AI DISCLOSURE
+Object Name,Weight,Cost
 
-
-# AI helped me to now size of A4 paper 
+# AI DISCLOSURE
+AI helped me to now size of A4 paper 
