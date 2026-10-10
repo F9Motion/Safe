@@ -26,7 +26,16 @@ git clone https://github.com/F9Motion/Safe
 and be joyous!
 
 # Here is BOM file!!!
-[BOM.xlsx](https://github.com/user-attachments/files/33045754/BOM.xlsx)
+[BOM.csv](https://github.com/user-attachments/files/33277901/BOM.csv)
+
+or you can watch without downloading
+| Object name | Weight | Price |
+|-------------|--------|-------|
+| Back.step | 1090.69g | $19.62 |
+| Ball.step | 84.09g | $1.51 |
+| case.step | 166.68g | $3.00 |
+| door.step | 161.13g | $2.90 |
+| stick.step | 35.45g | $0.64 |
 
 # AI DISCLOSURE
 AI helped me to now size of A4 paper 
