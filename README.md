@@ -29,6 +29,7 @@ and be joyous!
 [BOM.csv](https://github.com/user-attachments/files/33277901/BOM.csv)
 
 or you can watch without downloading
+WARNING: All price took in Bambu Studio and only felament price(without 3D printer)
 | Object name | Weight | Price |
 |-------------|--------|-------|
 | Back.step | 1090.69g | $19.62 |
@@ -36,6 +37,3 @@ or you can watch without downloading
 | case.step | 166.68g | $3.00 |
 | door.step | 161.13g | $2.90 |
 | stick.step | 35.45g | $0.64 |
-
-# AI DISCLOSURE
-AI helped me to now size of A4 paper 
